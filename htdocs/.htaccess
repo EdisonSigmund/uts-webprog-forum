@@ -1,0 +1,5 @@
+DirectoryIndex login.php register.php index.php
+
+ErrorDocument 403 https://localhost/uts-kelompok-lachisean/error/403.php
+ErrorDocument 404 https://localhost/uts-kelompok-lachisean/error/404.php
+ErrorDocument 500 https://localhost/uts-kelompok-lachisean/error/500.php
